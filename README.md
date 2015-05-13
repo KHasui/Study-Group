@@ -1,3 +1,3 @@
-# study-file
+# Study-Group
 
-Python codes by KHasui
+Python codes by KHasui (2015, Kobe Univ)
