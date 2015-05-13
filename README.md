@@ -1,3 +1,3 @@
-# study-files
+# study-file
 
 Python codes by KHasui
